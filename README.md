@@ -1,5 +1,5 @@
 # RN_Boilerplate
-React Native very small boilerplate
+React Native boilerplate
 
 This is just a little boilerplate from where I start on personnal projects
 Atm, it goes with
